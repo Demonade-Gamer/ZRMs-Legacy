@@ -589,7 +589,7 @@ monitors = {
 torpedo_boats = {
 	limit = { iron_steamers = 1 }
 	chance = {
-		base = 1005
+		base = 100
 		modifier = {
 			factor = 59
 			invention = self_propelled_torpedoes
@@ -869,7 +869,7 @@ advanced_cruisers = {
 modern_cruisers = {
 	limit = { oil_driven_ships = 1 }
 	chance = {
-		base = 1005
+		base = 100
 		modifier = {
 			factor = 2
 			invention = advanced_cruisers

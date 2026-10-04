@@ -325,7 +325,7 @@ alfred_nobel = {
 rosendale_cement = {
 	limit = { inorganic_chemistry = 1 }
 	chance = {
-		base = 1005
+		base = 100
 	}
 	effect = {
 		factory_goods_output = {

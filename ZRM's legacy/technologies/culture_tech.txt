@@ -208,7 +208,7 @@ idealism = {
 	year = 1840
 	cost = 7200
 
-	increase_research = 0.10
+	increase_research = 0.50
 	ai_chance = {
 		factor = 200
 		modifier = {

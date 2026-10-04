@@ -1284,7 +1284,6 @@ biased_multiculturalism = {
 	}
 	effect = {
 		colonial_migration = 0.05
-		plurality = -0.05
 	}
 	non_accepted_pop_consciousness_modifier = 0.03
 }
@@ -1327,7 +1326,6 @@ expansionism = {
 	}
 	effect = {
 		war_exhaustion = -0.05
-		plurality = -0.05
 	}
 		cb_generation_speed_modifier = 0.1
 }
