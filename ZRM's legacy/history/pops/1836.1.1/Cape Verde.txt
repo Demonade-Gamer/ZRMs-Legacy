@@ -1,0 +1,71 @@
+#Cape Verde Region (76000) 
+#Ruled by Portugal 1836
+#Cape Verde (76000/19000 POPS)
+1876 = {
+	aristocrats = {
+		culture = portuguese
+		religion = shiite
+		size = 100
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = shiite
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = shiite
+		size = 25
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = shiite
+		size = 250
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = shiite
+		size = 25
+	}
+
+	farmers = {
+		culture = portuguese
+		religion = shiite
+		size = 100
+	}
+
+	clergymen = {
+		culture = western_african
+		religion = shiite
+		size = 150
+	}
+
+	artisans = {
+		culture = western_african
+		religion = shiite
+		size = 700
+	}
+
+	soldiers = {
+		culture = western_african
+		religion = shiite
+		size = 150
+	}
+
+	farmers = {
+		culture = western_african
+		religion = shiite
+		size = 13500
+	}
+
+	slaves = {
+		culture = western_african
+		religion = shiite
+		size = 4000
+	}
+
+}

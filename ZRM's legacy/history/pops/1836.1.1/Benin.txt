@@ -1,0 +1,367 @@
+#Dahomey Region (512000)
+#uncolonized in 1836/ruled by Dahomey
+#Cotonou (272000/68000 POPS)
+1919 = {
+	aristocrats = {
+		culture = volta
+		religion = shiite
+		size = 975
+	}
+
+	clergymen = {
+		culture = volta
+		religion = shiite
+		size = 500
+	}
+
+	artisans = {
+		culture = volta
+		religion = shiite
+		size = 2050
+	}
+
+	soldiers = {
+		culture = volta
+		religion = shiite
+		size = 500
+	}
+
+	farmers = {
+		culture = volta
+		religion = shiite
+		size = 29975
+	}
+
+	slaves = {
+		culture = volta
+		religion = shiite
+		size = 2000
+	}
+
+	aristocrats = {
+		culture = volta
+		religion = shiite
+		size = 275
+	}
+
+	clergymen = {
+		culture = volta
+		religion = shiite
+		size = 150
+	}
+
+	artisans = {
+		culture = volta
+		religion = shiite
+		size = 750
+	}
+
+	soldiers = {
+		culture = volta
+		religion = shiite
+		size = 150
+	}
+
+	farmers = {
+		culture = volta
+		religion = shiite
+		size = 13675
+	}
+
+	slaves = {
+		culture = volta
+		religion = shiite
+		size = 13000
+	}
+
+	aristocrats = {
+		culture = volta
+		religion = shiite
+		size = 25
+	}
+
+	clergymen = {
+		culture = volta
+		religion = shiite
+		size = 50
+	}
+
+	artisans = {
+		culture = volta
+		religion = shiite
+		size = 100
+	}
+
+	soldiers = {
+		culture = volta
+		religion = shiite
+		size = 25
+	}
+
+	farmers = {
+		culture = volta
+		religion = shiite
+		size = 1800
+	}
+
+	slaves = {
+		culture = volta
+		religion = shiite
+		size = 2000
+	}
+}
+#Abomey (240000/60000 POPS)
+1920 = {
+	aristocrats = {
+		culture = volta
+		religion = shiite
+		size = 1050
+	}
+
+	bureaucrats = {
+		culture = volta
+		religion = shiite
+		size = 50
+	}
+
+	officers = {
+		culture = volta
+		religion = shiite
+		size = 100
+	}
+
+	clergymen = {
+		culture = volta
+		religion = shiite
+		size = 500
+	}
+
+	artisans = {
+		culture = volta
+		religion = shiite
+		size = 2125
+	}
+
+	soldiers = {
+		culture = volta
+		religion = shiite
+		size = 550
+	}
+
+	farmers = {
+		culture = volta
+		religion = shiite
+		size = 42625
+	}
+
+	slaves = {
+		culture = volta
+		religion = shiite
+		size = 4000
+	}
+
+	aristocrats = {
+		culture = volta
+		religion = shiite
+		size = 50
+	}
+
+	clergymen = {
+		culture = volta
+		religion = shiite
+		size = 50
+	}
+
+	artisans = {
+		culture = volta
+		religion = shiite
+		size = 200
+	}
+
+	soldiers = {
+		culture = volta
+		religion = shiite
+		size = 50
+	}
+
+	farmers = {
+		culture = volta
+		religion = shiite
+		size = 3650
+	}
+
+	slaves = {
+		culture = volta
+		religion = shiite
+		size = 1100
+	}
+
+	aristocrats = {
+		culture = volta
+		religion = shiite
+		size = 50
+	}
+
+	clergymen = {
+		culture = volta
+		religion = shiite
+		size = 75
+	}
+
+	artisans = {
+		culture = volta
+		religion = shiite
+		size = 150
+	}
+
+	soldiers = {
+		culture = volta
+		religion = shiite
+		size = 25
+	}
+
+	farmers = {
+		culture = volta
+		religion = shiite
+		size = 2700
+	}
+
+	slaves = {
+		culture = volta
+		religion = shiite
+		size = 1100
+	}
+}
+#Borgu Region (76000) #see Nigeria.txt for balance of region  
+#ruled by Sokoto in 1836
+#Nikki (48000/12000 POPS)
+1921 = {
+	aristocrats = {
+		culture = volta
+		religion = shiite
+		size = 50
+	}
+
+	clergymen = {
+		culture = volta
+		religion = shiite
+		size = 75
+	}
+
+	artisans = {
+		culture = volta
+		religion = shiite
+		size = 150
+	}
+
+	soldiers = {
+		culture = volta
+		religion = shiite
+		size = 25
+	}
+
+	farmers = {
+		culture = volta
+		religion = shiite
+		size = 2700
+	}
+
+	slaves = {
+		culture = volta
+		religion = shiite
+		size = 1100
+	}
+
+	aristocrats = {
+		culture = volta
+		religion = shiite
+		size = 175
+	}
+
+	clergymen = {
+		culture = volta
+		religion = shiite
+		size = 100
+	}
+
+	artisans = {
+		culture = volta
+		religion = shiite
+		size = 375
+	}
+
+	soldiers = {
+		culture = volta
+		religion = shiite
+		size = 100
+	}
+
+	farmers = {
+		culture = volta
+		religion = shiite
+		size = 7250
+	}
+}
+#Jugu (28000/7000 POPS)
+1922 = {
+	aristocrats = {
+		culture = volta
+		religion = shiite
+		size = 75
+	}
+
+	clergymen = {
+		culture = volta
+		religion = shiite
+		size = 50
+	}
+
+	artisans = {
+		culture = volta
+		religion = shiite
+		size = 250
+	}
+
+	soldiers = {
+		culture = volta
+		religion = shiite
+		size = 50
+	}
+
+	farmers = {
+		culture = volta
+		religion = shiite
+		size = 4575
+	}
+
+	aristocrats = {
+		culture = volta
+		religion = shiite
+		size = 25
+	}
+
+	clergymen = {
+		culture = volta
+		religion = shiite
+		size = 50
+	}
+
+	artisans = {
+		culture = volta
+		religion = shiite
+		size = 100
+	}
+
+	soldiers = {
+		culture = volta
+		religion = shiite
+		size = 25
+	}
+
+	farmers = {
+		culture = volta
+		religion = shiite
+		size = 1800
+	}
+
+}

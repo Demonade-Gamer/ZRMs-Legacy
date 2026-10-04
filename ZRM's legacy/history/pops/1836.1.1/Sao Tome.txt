@@ -1,0 +1,65 @@
+#Sao Tome e Principe (16000)
+#Under Portuguese Rule 1836
+#Sao Tome (16000/4000 POPS)
+1954 = {
+	aristocrats = {
+		culture = portuguese
+		religion = shiite
+		size = 20
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = shiite
+		size = 5
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = shiite
+		size = 5
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = shiite
+		size = 5
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = shiite
+		size = 5
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = shiite
+		size = 50
+	}
+
+	artisans = {
+		culture = bantu
+		religion = shiite
+		size = 200
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = shiite
+		size = 100
+	}
+
+	farmers = {
+		culture = bantu
+		religion = shiite
+		size = 550
+	}
+
+	slaves = {
+		culture = bantu
+		religion = shiite
+		size = 3450
+	}
+
+}

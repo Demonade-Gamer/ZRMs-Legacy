@@ -1,0 +1,759 @@
+country_event = {
+	id = 700700
+	title = "State Sizing Early Game"
+
+	trigger = {
+		tag = GHO
+		NOT = { has_country_modifier = sizing_cooldown }
+		NOT = { year = 1870 }
+	}
+
+	immediate = {
+		add_country_modifier = {
+			name = sizing_cooldown
+			duration = 365
+		}
+	}
+
+	option = {
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						OR = {
+							tag = TUR
+							tag = SER
+							tag = RUS
+							tag = SWE
+							tag = MON
+							tag = GRE
+							tag = MOD
+							tag = LOM
+							tag = TRI
+						}
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						NOT = { total_pops = 100000 }
+					}
+				}
+				add_core = TIN
+				remove_core = SMA
+				remove_core = MED 
+				remove_core = LRG 
+				remove_core = HUG 
+			}
+		}
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						OR = {
+							tag = TUR
+							tag = SER
+							tag = RUS
+							tag = SWE
+							tag = MON
+							tag = GRE
+							tag = MOD
+							tag = LOM
+							tag = TRI
+						}
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 100000
+						NOT = { total_pops = 400000 }
+					}
+				}
+				add_core = SMA 
+				remove_core = TIN
+				remove_core = MED 
+				remove_core = LRG 
+				remove_core = HUG 
+			}
+		}
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						OR = {
+							tag = TUR
+							tag = SER
+							tag = RUS
+							tag = SWE
+							tag = MON
+							tag = GRE
+							tag = MOD
+							tag = LOM
+							tag = TRI
+						}
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 400000 
+						NOT = { total_pops = 700000 }
+					} 
+				} 
+				add_core = MED
+				remove_core = TIN
+				remove_core = SMA 
+				remove_core = LRG 
+				remove_core = HUG 
+			} 
+		}		
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						OR = {
+							tag = TUR
+							tag = SER
+							tag = RUS
+							tag = SWE
+							tag = MON
+							tag = GRE
+							tag = MOD
+							tag = LOM
+							tag = TRI
+						}
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = {
+				limit = {
+					state_scope = { 
+						total_pops = 700000 
+						NOT = { total_pops = 1000000 }
+					} 
+				} 
+			add_core = LRG
+			remove_core = TIN
+			remove_core = SMA 
+			remove_core = MED 
+			remove_core = HUG 
+			} 
+		}
+		any_country = {
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						OR = {
+							tag = TUR
+							tag = SER
+							tag = RUS
+							tag = SWE
+						}
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 1000000
+					}
+				}
+				add_core = HUG 
+				remove_core = TIN
+				remove_core = SMA 
+				remove_core = MED 
+				remove_core = LRG 
+			} 
+		}
+	}
+}	
+
+country_event = {
+	id = 700701
+	title = "State Sizing Mid Game"
+
+	trigger = {
+		tag = GHO
+		NOT = { has_country_modifier = sizing_cooldown }
+		year = 1870
+		NOT = { year = 1900 }
+	}
+
+	immediate = {
+		add_country_modifier = {
+			name = sizing_cooldown
+			duration = 365
+		}
+	}
+
+	option = {
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						OR = {
+							tag = TUR
+							tag = SER
+							tag = RUS
+							tag = SWE
+							tag = MON
+							tag = GRE
+							tag = MOD
+							tag = LOM
+							tag = TRI
+						}
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						NOT = { total_pops = 150000 }
+					}
+				}
+				add_core = TIN
+				remove_core = SMA
+				remove_core = MED 
+				remove_core = LRG 
+				remove_core = HUG 
+			}
+		}
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						OR = {
+							tag = TUR
+							tag = SER
+							tag = RUS
+							tag = SWE
+							tag = MON
+							tag = GRE
+							tag = MOD
+							tag = LOM
+							tag = TRI
+						}
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 150000
+						NOT = { total_pops = 600000 }
+					}
+				}
+				add_core = SMA 
+				remove_core = TIN
+				remove_core = MED 
+				remove_core = LRG 
+				remove_core = HUG 
+			}
+		}
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						OR = {
+							tag = TUR
+							tag = SER
+							tag = RUS
+							tag = SWE
+							tag = MON
+							tag = GRE
+							tag = MOD
+							tag = LOM
+							tag = TRI
+						}
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 600000 
+						NOT = { total_pops = 1000000 }
+					} 
+				} 
+				add_core = MED
+				remove_core = TIN
+				remove_core = SMA 
+				remove_core = LRG 
+				remove_core = HUG 
+			} 
+		}		
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						OR = {
+							tag = TUR
+							tag = SER
+							tag = RUS
+							tag = SWE
+							tag = MON
+							tag = GRE
+							tag = MOD
+							tag = LOM
+							tag = TRI
+						}
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = {
+				limit = {
+					state_scope = { 
+						total_pops = 1000000 
+						NOT = { total_pops = 1500000 }
+					} 
+				} 
+			add_core = LRG
+			remove_core = TIN
+			remove_core = SMA 
+			remove_core = MED 
+			remove_core = HUG 
+			} 
+		}
+		any_country = {
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						OR = {
+							tag = TUR
+							tag = SER
+							tag = RUS
+							tag = SWE
+							tag = MON
+							tag = GRE
+							tag = MOD
+							tag = LOM
+							tag = TRI
+						}
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 1500000
+					}
+				}
+				add_core = HUG 
+				remove_core = TIN
+				remove_core = SMA 
+				remove_core = MED 
+				remove_core = LRG 
+			} 
+		}
+	}
+}
+
+country_event = {
+	id = 700702
+	title = "State Sizing Late Game"
+
+	trigger = {
+		tag = GHO
+		NOT = { has_country_modifier = sizing_cooldown }
+		year = 1900
+	}
+
+	immediate = {
+		add_country_modifier = {
+			name = sizing_cooldown
+			duration = 365
+		}
+	}
+
+	option = {
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						OR = {
+							tag = TUR
+							tag = SER
+							tag = RUS
+							tag = SWE
+							tag = MON
+							tag = GRE
+							tag = MOD
+							tag = LOM
+							tag = TRI
+						}
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						NOT = { total_pops = 200000 }
+					}
+				}
+				add_core = TIN
+				remove_core = SMA
+				remove_core = MED 
+				remove_core = LRG 
+				remove_core = HUG 
+			}
+		}
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						OR = {
+							tag = TUR
+							tag = SER
+							tag = RUS
+							tag = SWE
+							tag = MON
+							tag = GRE
+							tag = MOD
+							tag = LOM
+							tag = TRI
+						}
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 200000
+						NOT = { total_pops = 800000 }
+					}
+				}
+				add_core = SMA 
+				remove_core = TIN
+				remove_core = MED 
+				remove_core = LRG 
+				remove_core = HUG 
+			}
+		}
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						OR = {
+							tag = TUR
+							tag = SER
+							tag = RUS
+							tag = SWE
+							tag = MON
+							tag = GRE
+							tag = MOD
+							tag = LOM
+							tag = TRI
+						}
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 800000 
+						NOT = { total_pops = 1400000 }
+					} 
+				} 
+				add_core = MED
+				remove_core = TIN
+				remove_core = SMA 
+				remove_core = LRG 
+				remove_core = HUG 
+			} 
+		}		
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						OR = {
+							tag = TUR
+							tag = SER
+							tag = RUS
+							tag = SWE
+							tag = MON
+							tag = GRE
+							tag = MOD
+							tag = LOM
+							tag = TRI
+						}
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = {
+				limit = {
+					state_scope = { 
+						total_pops = 1400000 
+						NOT = { total_pops = 2000000 }
+					} 
+				} 
+			add_core = LRG
+			remove_core = TIN
+			remove_core = SMA 
+			remove_core = MED 
+			remove_core = HUG 
+			} 
+		}
+		any_country = {
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						OR = {
+							tag = TUR
+							tag = SER
+							tag = RUS
+							tag = SWE
+							tag = MON
+							tag = GRE
+							tag = MOD
+							tag = LOM
+							tag = TRI
+						}
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 2000000
+					}
+				}
+				add_core = HUG 
+				remove_core = TIN
+				remove_core = SMA 
+				remove_core = MED 
+				remove_core = LRG 
+			} 
+		}
+	}
+}
+
+country_event = {
+	id = 700709
+	title = "Rebel Miltech 0"
+
+	trigger = {
+	year = 1850	
+	tag = GHO
+	NOT = { has_country_flag = reb0}
+}
+	option = { 
+	set_country_flag = rebone0
+	REB = { 
+		activate_technology = post_napoleonic_thought
+	}
+	}
+}	
+
+country_event = {
+	id = 700710
+	title = "Rebel Miltech 1"
+
+	trigger = {
+	year = 1850	
+	tag = GHO
+	NOT = { has_country_flag = rebone}
+}
+	option = { 
+	set_country_flag = rebone
+	REB = { 
+		activate_technology = muzzle_loaded_rifles
+		activate_technology = medicine
+	}
+	}
+}	
+
+country_event = {
+	id = 700720
+	title = "Rebel Miltech 1b"
+
+	trigger = {
+	year = 1855	
+	tag = GHO
+	NOT = { has_country_flag = reboneb}
+}
+	option = { 
+	set_country_flag = reboneb
+	REB = { 
+		activate_technology = strategic_mobility
+	}
+	}
+}	
+
+country_event = {
+	id = 700711
+	title = "Rebel Miltech 2"
+
+	trigger = {
+	year = 1860	
+	tag = GHO
+	NOT = { has_country_flag = rebtwo}
+}
+	option = { 
+	set_country_flag = rebtwo
+	REB = { 
+		activate_technology = breech_loaded_rifles
+	}
+	}
+}	
+
+country_event = {
+	id = 700721
+	title = "Rebel Miltech 2b"
+
+	trigger = {
+	year = 1870	
+	tag = GHO
+	NOT = { has_country_flag = rebtwob}
+}
+	option = { 
+	set_country_flag = rebtwob
+	REB = { 
+		activate_technology = point_defense_system
+	}
+	}
+}	
+
+country_event = {
+	id = 700712
+	title = "Rebel Miltech 3"
+
+	trigger = {
+	year = 1880	
+	tag = GHO
+	NOT = { has_country_flag = rebthree}
+}
+	option = { 
+	set_country_flag = rebthree
+	REB = { 
+		activate_technology = machine_guns
+	}
+	}
+}	
+
+country_event = {
+	id = 700722
+	title = "Rebel Miltech 3b"
+
+	trigger = {
+	year = 1900	
+	tag = GHO
+	NOT = { has_country_flag = rebthreeb}
+}
+	option = { 
+	set_country_flag = rebthreeb
+	REB = { 
+		activate_technology = deep_defense_system
+	}
+	}
+}	
+
+country_event = {
+	id = 700723
+	title = "Rebel Miltech 3c"
+
+	trigger = {
+	year = 1910	
+	tag = GHO
+	NOT = { has_country_flag = rebthreec}
+}
+	option = { 
+	set_country_flag = rebthreec
+	REB = { 
+		activate_technology = military_directionism
+	}
+	}
+}

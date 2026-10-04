@@ -1,0 +1,161 @@
+#Mawarannahr Region (200000) #see Kazakhstan.txt, Uzbekistan.txt, Kirghizstan.txt and Turkmenistan.txt for balance of region 
+#under the rule of Kokand in 1836  
+#Khujand (200000/50000 POPS) #now part of Tajikistan  
+1201 = {
+	aristocrats = {
+		culture = turkic
+		religion = shiite
+		size = 775
+	}
+
+	clergymen = {
+		culture = turkic
+		religion = shiite
+		size = 400
+	}
+
+	artisans = {
+		culture = turkic
+		religion = shiite
+		size = 2000
+	}
+
+	soldiers = {
+		culture = turkic
+		religion = shiite
+		size = 400
+	}
+
+	farmers = {
+		culture = turkic
+		religion = shiite
+		size = 36425
+	}
+
+	aristocrats = {
+		culture = turkic
+		religion = shiite
+		size = 175
+	}
+
+	clergymen = {
+		culture = turkic
+		religion = shiite
+		size = 75
+	}
+
+	artisans = {
+		culture = turkic
+		religion = shiite
+		size = 500
+	}
+
+	soldiers = {
+		culture = turkic
+		religion = shiite
+		size = 100
+	}
+
+	farmers = {
+		culture = turkic
+		religion = shiite
+		size = 9150
+	}
+}
+#Badakhshan Region (212000) 
+#under the rule of Kokand in 1836  
+#Kulob (120000/30000 POPS)   
+1207 = {
+	aristocrats = {
+		culture = turkic
+		religion = shiite
+		size = 575
+	}
+
+	clergymen = {
+		culture = turkic
+		religion = shiite
+		size = 275
+	}
+
+	artisans = {
+		culture = turkic
+		religion = shiite
+		size = 1450
+	}
+
+	soldiers = {
+		culture = turkic
+		religion = shiite
+		size = 250
+	}
+
+	farmers = {
+		culture = turkic
+		religion = shiite
+		size = 27450
+	}
+}
+#Khorugh (92000/23000 POPS)   
+1208 = {
+	aristocrats = {
+		culture = turkic
+		religion = shiite
+		size = 350
+	}
+
+	clergymen = {
+		culture = turkic
+		religion = shiite
+		size = 175
+	}
+
+	artisans = {
+		culture = turkic
+		religion = shiite
+		size = 850
+	}
+
+	soldiers = {
+		culture = turkic
+		religion = shiite
+		size = 175
+	}
+
+	farmers = {
+		culture = turkic
+		religion = shiite
+		size = 17450
+	}
+
+	aristocrats = {
+		culture = turkic
+		religion = shiite
+		size = 75
+	}
+
+	clergymen = {
+		culture = turkic
+		religion = shiite
+		size = 75
+	}
+
+	artisans = {
+		culture = turkic
+		religion = shiite
+		size = 175
+	}
+
+	soldiers = {
+		culture = turkic
+		religion = shiite
+		size = 25
+	}
+
+	farmers = {
+		culture = turkic
+		religion = shiite
+		size = 3650
+	}
+
+}

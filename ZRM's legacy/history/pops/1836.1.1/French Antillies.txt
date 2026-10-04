@@ -1,0 +1,133 @@
+#French Antilles (319200)
+#Ruled by France 1836
+#Martinique (190800/27450 POPS)
+2228 = {
+	aristocrats = {
+		culture = french
+		religion = shiite
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = french
+		religion = shiite
+		size = 100
+	}
+
+	clergymen = {
+		culture = french
+		religion = shiite
+		size = 50
+	}
+
+	artisans = {
+		culture = french
+		religion = shiite
+		size = 900
+	}
+
+	soldiers = {
+		culture = french
+		religion = shiite
+		size = 250
+	}
+
+	farmers = {
+		culture = french
+		religion = shiite
+		size = 400
+	}
+
+	clergymen = {
+		culture = afro_antillean
+		religion = shiite
+		size = 125
+	}
+
+	artisans = {
+		culture = afro_antillean
+		religion = shiite
+		size = 1250
+	}
+
+	soldiers = {
+		culture = afro_antillean
+		religion = shiite
+		size = 250
+	}
+
+	farmers = {
+		culture = afro_antillean
+		religion = shiite
+		size = 3400
+	}
+
+	slaves = {
+		culture = afro_antillean
+		religion = shiite
+		size = 20000
+	}
+}
+#Guadeloupe (128400/32100 POPS)
+2230 = {
+	aristocrats = {
+		culture = french
+		religion = shiite
+		size = 850
+	}
+
+	clergymen = {
+		culture = french
+		religion = shiite
+		size = 50
+	}
+
+	artisans = {
+		culture = french
+		religion = shiite
+		size = 1300
+	}
+
+	soldiers = {
+		culture = french
+		religion = shiite
+		size = 300
+	}
+
+	farmers = {
+		culture = french
+		religion = shiite
+		size = 600
+	}
+
+	clergymen = {
+		culture = afro_antillean
+		religion = shiite
+		size = 150
+	}
+
+	artisans = {
+		culture = afro_antillean
+		religion = shiite
+		size = 1500
+	}
+
+	soldiers = {
+		culture = afro_antillean
+		religion = shiite
+		size = 300
+	}
+
+	farmers = {
+		culture = afro_antillean
+		religion = shiite
+		size = 3050
+	}
+
+	slaves = {
+		culture = afro_antillean
+		religion = shiite
+		size = 24000
+	}
+
+}

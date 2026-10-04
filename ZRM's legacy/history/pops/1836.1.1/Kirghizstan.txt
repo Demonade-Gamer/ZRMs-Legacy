@@ -1,0 +1,251 @@
+#Semireche Region (292000) #see Kazakhstan.txt for balance of region 
+#under the "rule" of Kokand in 1836  
+#Bishkek (236000/59000 POPS) #now part of Kirghizstan   
+1189 = {
+	aristocrats = {
+		culture = turkic
+		religion = shiite
+		size = 800
+	}
+
+	clergymen = {
+		culture = turkic
+		religion = shiite
+		size = 425
+	}
+
+	artisans = {
+		culture = turkic
+		religion = shiite
+		size = 2000
+	}
+
+	soldiers = {
+		culture = turkic
+		religion = shiite
+		size = 7000
+	}
+
+	farmers = {
+		culture = turkic
+		religion = shiite
+		size = 33775
+	}
+
+	aristocrats = {
+		culture = turkic
+		religion = shiite
+		size = 100
+	}
+
+	clergymen = {
+		culture = turkic
+		religion = shiite
+		size = 75
+	}
+
+	artisans = {
+		culture = turkic
+		religion = shiite
+		size = 300
+	}
+
+	soldiers = {
+		culture = turkic
+		religion = shiite
+		size = 75
+	}
+
+	farmers = {
+		culture = turkic
+		religion = shiite
+		size = 6450
+	}
+
+	aristocrats = {
+		culture = turkic
+		religion = shiite
+		size = 125
+	}
+
+	clergymen = {
+		culture = turkic
+		religion = shiite
+		size = 75
+	}
+
+	artisans = {
+		culture = turkic
+		religion = shiite
+		size = 350
+	}
+
+	soldiers = {
+		culture = turkic
+		religion = shiite
+		size = 75
+	}
+
+	farmers = {
+		culture = turkic
+		religion = shiite
+		size = 7375
+	}
+}
+#Naryn (56000/14000 POPS) #now part of Kirghizstan    
+1190 = {
+	aristocrats = {
+		culture = turkic
+		religion = shiite
+		size = 50
+	}
+
+	clergymen = {
+		culture = turkic
+		religion = shiite
+		size = 50
+	}
+
+	artisans = {
+		culture = turkic
+		religion = shiite
+		size = 100
+	}
+
+	soldiers = {
+		culture = turkic
+		religion = shiite
+		size = 1100
+	}
+
+	farmers = {
+		culture = turkic
+		religion = shiite
+		size = 2775
+	}
+
+	aristocrats = {
+		culture = turkic
+		religion = shiite
+		size = 100
+	}
+
+	clergymen = {
+		culture = turkic
+		religion = shiite
+		size = 50
+	}
+
+	artisans = {
+		culture = turkic
+		religion = shiite
+		size = 250
+	}
+
+	soldiers = {
+		culture = turkic
+		religion = shiite
+		size = 50
+	}
+
+	farmers = {
+		culture = turkic
+		religion = shiite
+		size = 4575
+	}
+
+	aristocrats = {
+		culture = turkic
+		religion = shiite
+		size = 100
+	}
+
+	clergymen = {
+		culture = turkic
+		religion = shiite
+		size = 50
+	}
+
+	artisans = {
+		culture = turkic
+		religion = shiite
+		size = 200
+	}
+
+	soldiers = {
+		culture = turkic
+		religion = shiite
+		size = 50
+	}
+
+	farmers = {
+		culture = turkic
+		religion = shiite
+		size = 4600
+	}
+}
+#Mawarannahr Region (112000) #see turkichstan.txt, turkicistan.txt, turkicistan.txt for balance of region 
+#under the rule of Kokand in 1836  
+#Osh (112000/28000 POPS) #Now part of Kirghizstan   
+1203 = {
+	aristocrats = {
+		culture = turkic
+		religion = shiite
+		size = 175
+	}
+
+	clergymen = {
+		culture = turkic
+		religion = shiite
+		size = 75
+	}
+
+	artisans = {
+		culture = turkic
+		religion = shiite
+		size = 450
+	}
+
+	soldiers = {
+		culture = turkic
+		religion = shiite
+		size = 100
+	}
+
+	farmers = {
+		culture = turkic
+		religion = shiite
+		size = 8200
+	}
+
+	aristocrats = {
+		culture = turkic
+		religion = shiite
+		size = 375
+	}
+
+	clergymen = {
+		culture = turkic
+		religion = shiite
+		size = 175
+	}
+
+	artisans = {
+		culture = turkic
+		religion = shiite
+		size = 900
+	}
+
+	soldiers = {
+		culture = turkic
+		religion = shiite
+		size = 4000
+	}
+
+	farmers = {
+		culture = turkic
+		religion = shiite
+		size = 13550
+	}
+
+}

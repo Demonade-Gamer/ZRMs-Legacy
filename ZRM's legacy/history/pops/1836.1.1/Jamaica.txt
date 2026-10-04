@@ -1,0 +1,85 @@
+#Jamaica Region - 384000
+#Ruled by Britain 1836
+#Jamaica (372000/93000 POPS)
+2217 = {
+	aristocrats = {
+		culture = british
+		religion = shiite
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = british
+		religion = shiite
+		size = 85
+	}
+
+	clergymen = {
+		culture = british
+		religion = shiite
+		size = 75
+	}
+
+	artisans = {
+		culture = british
+		religion = shiite
+		size = 2500
+	}
+
+	soldiers = {
+		culture = british
+		religion = shiite
+		size = 50
+	}
+
+	farmers = {
+		culture = british
+		religion = shiite
+		size = 2190
+	}
+
+	clergymen = {
+		culture = afro_caribbean
+		religion = shiite
+		size = 625
+	}
+
+	artisans = {
+		culture = afro_caribbean
+		religion = shiite
+		size = 2000
+	}
+
+	soldiers = {
+		culture = afro_caribbean
+		religion = shiite
+		size = 1100
+	}
+
+	farmers = {
+		culture = afro_caribbean
+		religion = shiite
+		size = 84375
+	}
+}
+#Cayman Islands : (1200/300 POPS) #still a British Colony
+2218 = {
+	clergymen = {
+		culture = afro_caribbean
+		religion = shiite
+		size = 5
+	}
+
+	artisans = {
+		culture = afro_caribbean
+		religion = shiite
+		size = 15
+	}
+
+	farmers = {
+		culture = afro_caribbean
+		religion = shiite
+		size = 280
+	}
+
+}

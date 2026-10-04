@@ -1,0 +1,64 @@
+#############################
+#Ukraine Growth Events      #
+#############################
+province_event = {
+	
+	id = 200012
+
+	trigger = {
+		region = breadbasket
+		year = 1860
+		NOT = { 
+			owned_by = UKR
+			has_province_modifier = ukrainian_breadbasket
+			has_province_modifier = big_ukrainian_breadbasket
+		}
+	}
+
+	mean_time_to_happen =  {
+		days = 1
+
+	}
+
+	title = "EVTNAME200012"
+	desc = "EVTDESC200012"
+
+	option = {
+		name = "EVTOPTA200012"
+		add_province_modifier = {
+			name = ukrainian_breadbasket
+			duration = -1
+		}
+	}
+}
+
+province_event = {
+	
+	id = 200013
+
+	trigger = {
+		region = big_breadbasket
+		year = 1860
+		NOT = { 
+			owned_by = UKR
+			has_province_modifier = ukrainian_breadbasket
+			has_province_modifier = big_ukrainian_breadbasket			
+		}
+	}
+
+	mean_time_to_happen =  {
+		months = 12
+
+	}
+
+	title = "EVTNAME200012"
+	desc = "EVTDESC200012"
+
+	option = {
+		name = "EVTOPTA200012"
+		add_province_modifier = {
+			name = big_ukrainian_breadbasket
+			duration = -1
+		}
+	}
+}

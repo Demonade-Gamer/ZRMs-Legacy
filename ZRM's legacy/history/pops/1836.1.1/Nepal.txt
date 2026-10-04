@@ -1,0 +1,199 @@
+#Himalaya Region (952000) #see Bhutan.txt and India.txt for balance of region
+#under the rule of Nepal in 1836  
+#Katmandu (540000/135000 POPS)   
+1326 = {
+	aristocrats = {
+		culture = nepali
+		religion = shiite
+		size = 2000
+	}
+
+	bureaucrats = {
+		culture = nepali
+		religion = shiite
+		size = 175
+	}
+
+	officers = {
+		culture = nepali
+		religion = shiite
+		size = 225
+	}
+
+	clergymen = {
+		culture = nepali
+		religion = shiite
+		size = 1100
+	}
+
+	artisans = {
+		culture = nepali
+		religion = shiite
+		size = 4050
+	}
+
+	soldiers = {
+		culture = nepali
+		religion = shiite
+		size = 7000
+	}
+
+	farmers = {
+		culture = nepali
+		religion = shiite
+		size = 86250
+	}
+
+	aristocrats = {
+		culture = nepali
+		religion = shiite
+		size = 200
+	}
+
+	clergymen = {
+		culture = nepali
+		religion = shiite
+		size = 100
+	}
+
+	artisans = {
+		culture = nepali
+		religion = shiite
+		size = 475
+	}
+
+	soldiers = {
+		culture = nepali
+		religion = shiite
+		size = 100
+	}
+
+	farmers = {
+		culture = nepali
+		religion = shiite
+		size = 10125
+	}
+
+	aristocrats = {
+		culture = nepali
+		religion = shiite
+		size = 400
+	}
+
+	clergymen = {
+		culture = nepali
+		religion = shiite
+		size = 225
+	}
+
+	artisans = {
+		culture = nepali
+		religion = shiite
+		size = 1050
+	}
+
+	soldiers = {
+		culture = nepali
+		religion = shiite
+		size = 200
+	}
+
+	farmers = {
+		culture = nepali
+		religion = shiite
+		size = 21125
+	}
+}
+#Jumla (412000/103000 POPS)   
+1327 = {
+	aristocrats = {
+		culture = nepali
+		religion = shiite
+		size = 900
+	}
+
+	clergymen = {
+		culture = nepali
+		religion = shiite
+		size = 450
+	}
+
+	artisans = {
+		culture = nepali
+		religion = shiite
+		size = 2300
+	}
+
+	soldiers = {
+		culture = nepali
+		religion = shiite
+		size = 1100
+	}
+
+	farmers = {
+		culture = nepali
+		religion = shiite
+		size = 49250
+	}
+
+	aristocrats = {
+		culture = nepali
+		religion = shiite
+		size = 700
+	}
+
+	clergymen = {
+		culture = nepali
+		religion = shiite
+		size = 375
+	}
+
+	artisans = {
+		culture = nepali
+		religion = shiite
+		size = 1850
+	}
+
+	soldiers = {
+		culture = nepali
+		religion = shiite
+		size = 350
+	}
+
+	farmers = {
+		culture = nepali
+		religion = shiite
+		size = 33725
+	}
+
+	aristocrats = {
+		culture = nepali
+		religion = shiite
+		size = 350
+	}
+
+	clergymen = {
+		culture = nepali
+		religion = shiite
+		size = 200
+	}
+
+	artisans = {
+		culture = nepali
+		religion = shiite
+		size = 950
+	}
+
+	soldiers = {
+		culture = nepali
+		religion = shiite
+		size = 200
+	}
+
+	farmers = {
+		culture = nepali
+		religion = shiite
+		size = 18300
+	}
+}
+

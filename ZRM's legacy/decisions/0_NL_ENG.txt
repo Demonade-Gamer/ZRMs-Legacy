@@ -1,0 +1,80 @@
+political_decisions = { 
+	
+	ENG_ireland = { 
+		picture = ireland_decision
+		potential = {
+			tag = ENG
+			NOT = { accepted_culture = irish } 
+		}
+		allow = { 
+			war = no
+			all_core = { owned_by = THIS } 
+			IRE = { 
+				all_core = { 
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								vassal_of = THIS
+								in_sphere = THIS
+							}
+						}
+					}
+				}
+			} 
+			nationalism_n_imperialism = 1
+		}
+		effect = { 	
+			IRE = { 
+				all_core = { 
+					add_core = THIS 
+					secede_province = THIS
+				} 
+			} 
+			add_accepted_culture = irish
+			prestige = 15
+		}
+	}
+
+    na_expansion = {
+		picture = canada_decision
+		potential = {
+			tag = ENG
+			NOT = {accepted_culture = anglo_canadian}
+		}
+		allow = {
+			CAN = {ai = yes}
+			war = no
+			all_core = {
+				owned_by = THIS
+			}
+			CAN = {
+				all_core = {
+                    				OR = {
+                       				owned_by = THIS
+                       					owner = {
+                            					OR = {
+                               						in_sphere = THIS
+                                						vassal_of = THIS
+                            					}
+                        				}
+						empty = yes
+                    				}	
+				}
+			}
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			inherit = CAN
+			CAN = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			set_country_flag = hawaii_killers
+			add_accepted_culture = anglo_canadian
+           			add_accepted_culture = french_canadian
+			prestige = 20
+		}
+	}
+}

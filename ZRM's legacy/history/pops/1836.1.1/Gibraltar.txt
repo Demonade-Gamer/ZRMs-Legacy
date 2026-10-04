@@ -1,0 +1,54 @@
+#Gibraltar : 16000
+#Ruled by Britain 1836
+#Gibraltar (16000/4000 POPS)
+517 = {
+	artisans = {
+		culture = sephardic
+		religion = shiite
+		size = 400
+	}
+
+	officers = {
+		culture = spanish
+		religion = shiite
+		size = 5
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = shiite
+		size = 55
+	}
+
+	artisans = {
+		culture = spanish
+		religion = shiite
+		size = 3000
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = shiite
+		size = 150
+	}
+
+	farmers = {
+		culture = spanish
+		religion = shiite
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = spanish
+		religion = shiite
+		size = 5
+	}
+
+	artisans = {
+		culture = spanish
+		religion = shiite
+		size = 135
+	}
+
+
+}
