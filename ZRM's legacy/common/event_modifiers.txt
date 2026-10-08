@@ -15,6 +15,17 @@ academic_confusion = {
 	icon = 6
 }
 
+
+capital_supply_depot = {
+	max_attrition = -100
+	icon = 17
+}
+
+#### State Sizing
+
+sizing_cooldown = {	icon = 8 }
+sizing_cooldown1 = { icon = 8 }
+
 ##### LIBERAL REVOLUTIONS #####
 liberal_agitation = {
 	pop_consciousness_modifier = 0.1

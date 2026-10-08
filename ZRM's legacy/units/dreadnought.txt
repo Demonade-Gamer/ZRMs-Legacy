@@ -30,17 +30,17 @@ dreadnought = {
 	}
 	min_port_level = 5
 	limit_per_port = -1
-	supply_consumption_score = 120
+	supply_consumption_score = 0
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		steamer_convoy = 8.0  #102
-		artillery = 0.15        #50
-		canned_food = 1     #5
+		steamer_convoy = 10.0  #102
+		artillery = 0.2        #50
+		canned_food = 1.3     #5
 		#telephones = 0.2      #3.2
 		#radio = 0.2           #3.2
 		#steel = 5	      #23.5
-		fuel = 3           #41.25 total 228.15
+		fuel = 4           #41.25 total 228.15
 	}
 	
 	#Naval Abilties

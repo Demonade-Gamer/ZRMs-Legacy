@@ -29,13 +29,13 @@ commerce_raider = {
 	}
 	min_port_level = 1
 	limit_per_port = -1
-	supply_consumption_score = 6
+	supply_consumption_score = 0
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		clipper_convoy = 0.3  #origionally 12 steamers
-		artillery = 0.04      #6
-		canned_food = 0.1     #1   total 19
+		clipper_convoy = 0.4  #origionally 12 steamers
+		artillery = 0.075      #6
+		canned_food = 0.12     #1   total 19
 		coal = 0.1
 	}
 	

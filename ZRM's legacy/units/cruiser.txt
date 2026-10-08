@@ -31,15 +31,15 @@ cruiser = {
 	}
 	min_port_level = 4
 	limit_per_port = -1
-	supply_consumption_score = 30
+	supply_consumption_score = 0
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		steamer_convoy = 0.5 #18.6
-		artillery = 0.05       #15
-		canned_food = 0.15    #1.5
+		steamer_convoy = 0.75 #18.6
+		artillery = 0.075       #15
+		canned_food = 0.2    #1.5
 		#steel = 2.5           #11.75
-		coal = 0.15
+		coal = 0.2
 	}
 	
 	#Naval Abilties

@@ -122,7 +122,7 @@ economy = {
 	EMPLOYMENT_HIRE_LOWEST = 0.001,				-- we Hire pops no slower then x% of total required per day
 	EMPLOYMENT_FIRE_LOWEST = 0.001,				-- we Fire pops no slower then x% of total required per day
 	TRADE_CAP_LOW_LIMIT_LAND = 0, 				-- the lowest % the slider can go for land units
-	TRADE_CAP_LOW_LIMIT_NAVAL = 0.4, 			-- the lowest % the slider can go for naval units
+	TRADE_CAP_LOW_LIMIT_NAVAL = 0.7, 			-- the lowest % the slider can go for naval units
 	TRADE_CAP_LOW_LIMIT_CONSTRUCTIONS = 0, 		-- the lowest % the slider can go for constructions
 	FACTORY_PURCHASE_MIN_FACTOR = 0.75,			-- the lowest % of its daily needs a factory will purchase
 	FACTORY_PURCHASE_DRAWDOWN_FACTOR = 0.025		-- the % a factory will reduce its input purchases each day if it did not sell all its goods (also used for scaling up production if all goods are sold)
@@ -539,7 +539,7 @@ diplomacy = {
 	GOOD_PEACE_REFUSAL_MILITANCY = 1.0, --Militancy hit from refusing a good peace offer
 	GOOD_PEACE_REFUSAL_WAREXH = 5.0, --War exhaustion hit from refusing a good peace offer
 	
-	PEACE_COST_GUNBOAT = 5, -- Cost of forcing a defaulting country to pay its debt
+	PEACE_COST_GUNBOAT = 500, -- Cost of forcing a defaulting country to pay its debt
 	INFAMY_GUNBOAT = 0, -- Infamy cost for debt collection
 	BREAKTRUCE_INFAMY_GUNBOAT = 0, -- Truce breaking penalty for debt collection
 	BREAKTRUCE_PRESTIGE_GUNBOAT = 0,
@@ -658,7 +658,7 @@ pops = {
 
 	PDEF_BASE_CON = 20.0,			-- so half'ed effect.
 	
-	NATIONAL_FOCUS_DIVIDER = 250.0,
+	NATIONAL_FOCUS_DIVIDER = 250000.0,
 	
 	POP_SAVINGS = 0.018,
 	

@@ -6,7 +6,6 @@ political_decisions = {
 			ITA = { exists = no }
 		}
 		allow = {
-			war_policy = jingoism
 			war = no 
 			ITA = {
 				all_core = {

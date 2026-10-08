@@ -33,7 +33,7 @@ political_decisions = {
 			owns = 2447
 		}
 		allow = {
-			impressionism = 1
+			nationalism_n_imperialism = 1
 		}
 		effect = {
 			capital = 2447

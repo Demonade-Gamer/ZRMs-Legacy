@@ -5,7 +5,7 @@
 capital = 2468
 primary_culture = british
 culture=Scotish
-culture=dutch
+culture=boer
 religion = protestant
 government = democracy
 plurality = 10

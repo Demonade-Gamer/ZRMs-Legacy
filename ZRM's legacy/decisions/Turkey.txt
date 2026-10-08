@@ -166,21 +166,12 @@ political_decisions = {
 		effect = {
 			capital = 876
 			set_country_flag = we_have_retreated_to_anatolia
-			prestige = -50
-			badboy = -10
 			remove_accepted_culture = bosniak
 			remove_accepted_culture = albanian
 			remove_accepted_culture = bulgarian
 			add_accepted_culture = egyptian
 			add_accepted_culture = peninsular_arab
 			add_accepted_culture = azerbaijani
-			all_core = {
-				limit = {
-					continent = europe
-					NOT = { state_id = 860 } #Thrace
-				}
-				remove_core = TUR
-			}
 			RUS_1102 = { add_core = TUR } #Russian Azerbaijan
 			RUS_1098 = { add_core = TUR } #Russian Armenia
 			NEJ = {

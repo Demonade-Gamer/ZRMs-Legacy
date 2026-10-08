@@ -10,7 +10,6 @@ political_decisions = {
 			state_n_government=1
 			is_greater_power=yes
 			PLC = {is_greater_power=no}
-			war_policy=jingoism
 			AUS_702 = {owned_by = THIS}
 		}
 		effect = {
