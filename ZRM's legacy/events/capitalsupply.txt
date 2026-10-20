@@ -36,7 +36,7 @@ country_event = {
 
 
 country_event = {
-	id = 91308
+	id = 91310
 	title = "Capital Supply Depot Destroyed"
 	desc = "We have lost control over our Capital and our logistical Headquarters are destroyed."
 
@@ -44,8 +44,8 @@ country_event = {
 	trigger = { 
 		capital_scope = { 
 			has_province_modifier = capital_supply_depot
-			war = yes
 		}
+		war = yes
 	}
 	
 	option = { 
