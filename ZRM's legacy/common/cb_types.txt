@@ -747,7 +747,6 @@ acquire_colony_tiny = {
 			NOT = {	is_core = THIS }
 		}
 		any_owned_province = { is_colonial = no }
-		NOT = { any_owned_province = { is_capital = yes } }
 		owner = { civilized = no }
 	}
 	
@@ -810,7 +809,6 @@ acquire_colony_small = {
 			NOT = {	is_core = THIS }
 		}
 		any_owned_province = { is_colonial = no }
-		NOT = { any_owned_province = { is_capital = yes } }
 		owner = { civilized = no }
 	}
 	
